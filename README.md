@@ -2,6 +2,8 @@
 > How to set up a home lab for making electronics, computers, and 3D printing
 ![thumbnail](./thumbnail.png)
 
+🎖️ Featured by [Distrelec](https://www.distrelec.ch/en/knowhow-how-to-set-up-your-own-home-lab-with-rnd-on-the-pulse-with-t3ch-flicks/cms/Set-up-own-home-lab-RND)
+
 --- 
 
 ## `tutorials`
