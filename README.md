@@ -10,7 +10,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Github-orange.svg)](./blog_post.md)
 
-[![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://medium.com/@t3chflicks)
+[![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://t3chflicks.medium.com/how-to-make-a-home-lab-5d9f3db3884a)
 
 [![Generic badge](https://img.shields.io/badge/Youtube-Video-red.svg)](https://www.youtube.com/watch?v=rkmM_F-sD38)
 
